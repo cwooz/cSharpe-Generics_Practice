@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace WiredBrainCoffee.StackApp
 {
@@ -8,13 +9,12 @@ namespace WiredBrainCoffee.StackApp
         {
             StackDoubles();
             StackStrings();
-
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
         private static void StackDoubles()
         {
-            var stack = new SimpleStack();
+            var stack = new Stack<double>();
 
             stack.Push(1.2);
             stack.Push(2.8);
@@ -34,7 +34,7 @@ namespace WiredBrainCoffee.StackApp
 
         private static void StackStrings()
         {
-            var stack = new SimpleStackString();
+            var stack = new Stack<string>();
 
             stack.Push("Wired Brain Coffee");
             stack.Push("Pluralsight Course");
