@@ -1,0 +1,13 @@
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.exe
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.deps.json
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.runtimeconfig.json
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.runtimeconfig.dev.json
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.dll
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.pdb
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.csprojAssemblyReference.cache
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.AssemblyInfoInputs.cache
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.AssemblyInfo.cs
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.csproj.CoreCompileInputs.cache
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.dll
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.pdb
+C:\Users\woosleyc\source\repos\#courses\c#-Generics-course_2\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.StackApp.genruntimeconfig.cache
